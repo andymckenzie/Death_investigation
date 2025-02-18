@@ -1,6 +1,6 @@
 # Death investigation
 
-Repository for files related to our project on death investigation. 
+Repository for files related to our project on death investigation. This work was primarily performed by Alicia Keberle. 
 
 ## Marion County
 
